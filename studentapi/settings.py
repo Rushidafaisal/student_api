@@ -28,7 +28,9 @@ SECRET_KEY = 'django-insecure-!jh@h4x3#1ja$0ypq&)z#6xicjqqky2uq%o=s$0!6le+f_mdr&
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'student-api-1-u3gu.onrender.com'
+    'student-api-1-u3gu.onrender.com',
+    '127.0.0.1'
+    
 ]
 
 
